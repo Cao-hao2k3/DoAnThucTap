@@ -7,7 +7,15 @@ namespace ThanTai.Models
     {
         [DisplayName("Mã đặt hàng")]
         public int ID { get; set; }
+<<<<<<< HEAD
         public int NguoiDungID { get; set; }
+=======
+
+        [DisplayName("Mã người dùng")]
+        public int NguoiDungID { get; set; }
+
+        [DisplayName("Mã tình trạng")]
+>>>>>>> b07527a (Update2)
         public int TinhTrangID { get; set; }
 
         [StringLength(225)]

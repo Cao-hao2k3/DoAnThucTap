@@ -23,6 +23,10 @@ namespace ThanTai.Models
         public string AnhThongSo { get; set; }
 
         [ForeignKey("SanPhamID")]
+<<<<<<< HEAD
         public SanPham SanPham { get; set; }
+=======
+        public virtual SanPham? SanPham { get; set; }
+>>>>>>> b07527a (Update2)
     }
 }

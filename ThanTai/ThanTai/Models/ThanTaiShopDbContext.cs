@@ -1,4 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+<<<<<<< HEAD
+=======
+using ThanTai.Models;
+>>>>>>> b07527a (Update2)
 
 namespace ThanTai.Models
 {
@@ -21,5 +25,9 @@ namespace ThanTai.Models
         public DbSet<GiaTriThuocTinh> GiaTriThuocTinh { get; set; }
         
         public DbSet<ThuongHieu> ThuongHieu { get; set; }
+<<<<<<< HEAD
+=======
+        public DbSet<ThanTai.Models.HinhAnhSanPham> HinhAnhSanPham { get; set; } = default!;
+>>>>>>> b07527a (Update2)
     }
 }

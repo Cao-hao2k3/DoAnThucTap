@@ -52,6 +52,69 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+=======
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/DatHang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/DatHang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/DatHang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/DatHang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/DatHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/GiaTriThuocTinh/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVHJpVGh1b2NUaW5oXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/GiaTriThuocTinh/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVHJpVGh1b2NUaW5oXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/GiaTriThuocTinh/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVHJpVGh1b2NUaW5oXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/GiaTriThuocTinh/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVHJpVGh1b2NUaW5oXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/GiaTriThuocTinh/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVHJpVGh1b2NUaW5oXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/HinhAnhSanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGluaEFuaFNhblBoYW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/HinhAnhSanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGluaEFuaFNhblBoYW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/HinhAnhSanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGluaEFuaFNhblBoYW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/HinhAnhSanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGluaEFuaFNhblBoYW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/HinhAnhSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGluaEFuaFNhblBoYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> b07527a (Update2)
 [D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +123,69 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+=======
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/LoaiSanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/LoaiSanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/LoaiSanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/LoaiSanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/LoaiSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/NguoiDung/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/NguoiDung/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/NguoiDung/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/NguoiDung/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/NguoiDung/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/SanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/SanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/SanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/SanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> b07527a (Update2)
 [D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,6 +194,69 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+=======
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuocTinh/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b2NUaW5oXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuocTinh/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b2NUaW5oXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuocTinh/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b2NUaW5oXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuocTinh/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b2NUaW5oXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuocTinh/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b2NUaW5oXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuongHieu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25nSGlldVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuongHieu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25nSGlldVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuongHieu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25nSGlldVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuongHieu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25nSGlldVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/ThuongHieu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25nSGlldVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/TinhTrang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/TinhTrang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/TinhTrang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/TinhTrang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/TinhTrang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> b07527a (Update2)
 [D:/HocTap/DoAnTTCK/ThanTai/ThanTai/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\HocTap\\DoAnTTCK\\ThanTai\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Migrations\\20250228083802_CSD8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThanTai\\Migrations\\20250228083802_CSD8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +18,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Migrations\\20250228083619_CSDL7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThanTai\\Migrations\\20250228083619_CSDL7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{15ED1BE7-AB3F-4351-B48D-B58DCCDA2D17}|ThanTai\\ThanTai.csproj|d:\\hoctap\\doanttck\\thantai\\thantai\\views\\hinhanhsanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15ED1BE7-AB3F-4351-B48D-B58DCCDA2D17}|ThanTai\\ThanTai.csproj|solutionrelative:thantai\\views\\hinhanhsanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ED1BE7-AB3F-4351-B48D-B58DCCDA2D17}|ThanTai\\ThanTai.csproj|d:\\hoctap\\doanttck\\thantai\\thantai\\views\\tinhtrang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15ED1BE7-AB3F-4351-B48D-B58DCCDA2D17}|ThanTai\\ThanTai.csproj|solutionrelative:thantai\\views\\tinhtrang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15ED1BE7-AB3F-4351-B48D-B58DCCDA2D17}|ThanTai\\ThanTai.csproj|d:\\hoctap\\doanttck\\thantai\\thantai\\models\\hinhanhsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15ED1BE7-AB3F-4351-B48D-B58DCCDA2D17}|ThanTai\\ThanTai.csproj|solutionrelative:thantai\\models\\hinhanhsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> b07527a (Update2)
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +39,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> b07527a (Update2)
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,6 +58,7 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20250228083802_CSD8.cs",
@@ -51,11 +69,28 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:38:02.674Z",
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Views\\HinhAnhSanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThanTai\\Views\\HinhAnhSanPham\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Views\\HinhAnhSanPham\\Index.cshtml",
+              "RelativeToolTip": "ThanTai\\Views\\HinhAnhSanPham\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T08:16:27.769Z",
+>>>>>>> b07527a (Update2)
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "ThanTaiShopDbContext.cs",
               "DocumentMoniker": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Models\\ThanTaiShopDbContext.cs",
               "RelativeDocumentMoniker": "ThanTai\\Models\\ThanTaiShopDbContext.cs",
@@ -65,10 +100,21 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:37:39.625Z",
               "EditorCaption": ""
+=======
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Views\\TinhTrang\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThanTai\\Views\\TinhTrang\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Views\\TinhTrang\\Index.cshtml",
+              "RelativeToolTip": "ThanTai\\Views\\TinhTrang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T08:16:10.719Z"
+>>>>>>> b07527a (Update2)
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "TinhTrang.cs",
               "DocumentMoniker": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Models\\TinhTrang.cs",
               "RelativeDocumentMoniker": "ThanTai\\Models\\TinhTrang.cs",
@@ -91,6 +137,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:36:19.904Z",
               "EditorCaption": ""
+=======
+              "Title": "HinhAnhSanPham.cs",
+              "DocumentMoniker": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Models\\HinhAnhSanPham.cs",
+              "RelativeDocumentMoniker": "ThanTai\\Models\\HinhAnhSanPham.cs",
+              "ToolTip": "D:\\HocTap\\DoAnTTCK\\ThanTai\\ThanTai\\Models\\HinhAnhSanPham.cs",
+              "RelativeToolTip": "ThanTai\\Models\\HinhAnhSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:15:21.781Z"
+>>>>>>> b07527a (Update2)
             }
           ]
         }
